@@ -4,7 +4,7 @@ void main() {
     System.out.println("qual é sua renda");
     double renda = scanner.nextDouble();
     //50, 30. 20
-    double R5 = renda / 0.5;
+    double R5 = renda * 0.5;
     double R3 = renda * 0.3;
     double R2 = renda * 0.2;
 
