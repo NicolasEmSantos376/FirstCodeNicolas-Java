@@ -1,5 +1,4 @@
-import javax.swing.*;
-
+import java.util.Scanner;
 void main() {
     Scanner scanner = new Scanner(System.in);
     System.out.println("qual é sua renda");
@@ -13,4 +12,5 @@ void main() {
     System.out.println("para os gastos essenciais: "+R5);
     System.out.println("para lazer: "+R3);
     System.out.println("e para investir: "+R2);
-  }
+}
+
